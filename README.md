@@ -1,14 +1,15 @@
-
 # Exercice Tracker
 
-A dynamic Login / Sign up interface
+This allows you to save and monitor your recent fitness activities
 
 ## Live Link:
-https://login-interface.herokuapp.com/
+TBD
 
 ## Tech Stack:
+- MongoDB
+- Express
 - React
-- React-Icons
+- Node.js
 
 ## Contributors:
 Guillaume Acho
@@ -16,10 +17,9 @@ Guillaume Acho
 Reach out if you would like to contribute to this project
 
 ## Future ideas:
-- Add Remember option
-- Connect to a Database
-- Ability to secure Password Reset via Email
-- Ability to know if an user has already been registered
+- Enhance UI
+- Ability to login via Email
+- Ability to set goals
 
 #
 #
